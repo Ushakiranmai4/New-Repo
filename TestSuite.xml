@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Flight Booking">
+
+   <test name="Delete Booking">
+   
+  		<classes>
+   			<class name="testrunners.DeleteBooking">
+   			
+   			</class>
+   		</classes>
+   
+   </test>
+   
+   </suite>
+   
